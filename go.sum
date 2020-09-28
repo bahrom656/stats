@@ -1,2 +1,6 @@
+github.com/bahrom656/bank v0.0.0-20200928070027-e7c8499b7fc6 h1:Ar0RAaQZIkiaMfImXoj4COk1IZkAcAdPE+MLR36c1H8=
+github.com/bahrom656/bank v0.0.0-20200928070027-e7c8499b7fc6/go.mod h1:cv0tKfZVnPDwyEUND6d3TKTBuRkx7ixqYd/CrnRe8ds=
 github.com/bahrom656/bank/v2 v2.0.0 h1:splBAwVGPndx3zP6/qOOCZIkggh+4DTcAjEO8RPj938=
 github.com/bahrom656/bank/v2 v2.0.0/go.mod h1:MtoXVvmof7NaA49TBFusu0mbjUX9/mAHXcVBms0qVQs=
+github.com/bahrom656/stats v1.0.0 h1:6lpJzfz3Hct4274TMA7oNHF14g+XqMk6nmPURTCbAc0=
+github.com/bahrom656/stats v1.0.0/go.mod h1:Q8vR83f0Qq+cink2N3Iyb33TYtAw6l2Iv5yvZctcFCY=
